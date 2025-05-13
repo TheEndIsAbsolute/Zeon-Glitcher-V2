@@ -1,113 +1,129 @@
--gh 4458601937 4506945409 4794315940 4820152700 4315489767 4524991457 4623728953 5030789687 4932541287 4855847190 4773883146
+4458601937 4506945409 4794315940 4820152700 4315489767 4524991457 4623728953 5030789687 4932541287 4855847190 4773883146
 
-1                    = Sadness
+1 = Sadness
 
-2                    = =_-Humane-_=
+2 = =-Humane-=
 
-2+T                  = =_-MADNESS-_=
+2+T = =-MADNESS-=
 
-3                    = CALAMITANIA
+3 = CALAMITANIA
 
-3+T                  = INFINITE VOID
+3+T = INFINITE VOID
 
-3+R                  = PARADOX
+3+R = PARADOX
 
-3+R+F                = Galactic
+3+R+F = Galactic
 
-4                    = GALACTIA
+3+F = (Triggers CrueltiesSmash() action, no mode change)
 
-4+T                  = PURIFIED
+4 = GALACTIA
 
-4+T+T                = ZORNO
+4+T = PURIFIED
 
-4+F                  = SPACETIME
+4+T+T = ZORNO
 
-4+F+F                = FORCE
+4+F = SPACETIME
 
-5                    = INFINITY
+4+F+T = TIMELESS
 
-5+T                  = br0k3n
+4+F+T+T = LIGHTSPEED
 
-6                    = UNBROKEN
+4+F+F = FORCE
 
-6+T                  = lost
+5 = INFINITY
 
-6+F                  = NEPTUNIAN V (UNEQUIPPED)
+5+T = br0k3n
 
-6+F+F                = NEPTUNIAN V
+6 = UNBROKEN
 
-7                    = TRIX-LUA
+6+T = lost
 
-7+T                  = OVERKILL
+6+F = NEPTUNIAN V (UNEQUIPPED)
 
-8                    = Careless
+6+F+F = NEPTUNIAN V
 
-8+T                  = DARKENED
+6+F+F+F = NEPTUNIAN V (UNEQUIPPED) (cycles back)
 
-9                    = AURORA
+7 = TRIX-LUA
 
-9+T                  = The Doctor
+7+T = OVERKILL
 
-9+T+T                = ILLUMINATION
+8 = Careless
 
-N                    = SANS
+8+T = DARKENED
 
-N+R                  = LOVE
+9 = AURORA
 
-N+T                  = The Sword Runner
+9+T = The Doctor
 
-N+F                  = ULTRA SANS
+9+T+T = ILLUMINATION
 
-P                    = Interstellar
+Q = Dark Energy
 
-G                    = gh0st3d
+Q+Q = Broken PR0GRam
 
-G+T                  = FREEZING
+Q+Q+R = SPINNER
 
-G+T+T                = Inferno
+Q+E = Calamified
 
-Q                    = Dark Energy
+Q+E+E = PESTILENCE
 
-Q+Q                  = Broken PR0GRam
+Q+E+Q = (Triggers EndofworldsSMASHDOWN() action, no mode change)
 
-Q+Q+R                = SPINNER
+Q+C = Mayhem
 
-Q+C                  = Mayhem
+Q+V = N U C L E A R
 
-Q+V                  = N U C L E A R
+Q+R = SYNCHRO
 
-Q+E                  = Calamified
+Q+R+R = LOSS
 
-Q+E+E                = PESTILENCE
+Q+R+R+T = Universal
 
-Q+R                  = SYNCHRO
+Q+R+R+T+T = Defected
 
-Q+R+R                = LOSS
+Q+F = ULTRAVIOLET
 
-Q+R+R+T              = Universal
+Q+F+T = BIT32
 
-Q+R+R+T+T            = Defected
+Y = Pheonix
 
-K                    = ZEN-X
+Y+T = Time
 
-J                    = HEROIC
+Y+T+T = The Big Black
 
-Y                    = Pheonix
+Y+T+T+T = REVENGE
 
-Y+T                  = Time
+U = Bruh
 
-Y+T+T                = The Big Black
+P = Interstellar
 
-Y+T+T+T              = REVENGE
+G = gh0st3d
 
-Z                    = PRISM
+G+T = FREEZING
 
-Z+T                  = Omniversal
+G+T+T = Inferno
 
-L                    = HyPnOtIC
+J = HEROIC
 
-B                    = no is some what you think...
+K = ZEN-X
 
-B+T                  = pls dont say this
+L = HyPnOtIC
 
-X                    = [e2.Text]
+Z = PRISM
+
+Z+T = Omniversal
+
+X = (Switches to the mode specified in e2.Text)
+
+B = no is some what you think...
+
+B+T = pls dont say this
+
+N = SANS
+
+N+R = LOVE
+
+N+T = The Sword Runner
+
+N+F = ULTRA SANS
